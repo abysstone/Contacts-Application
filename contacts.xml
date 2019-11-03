@@ -18,4 +18,10 @@
 	<phone_number>9876</phone_number>
 	<notes>A few notes</notes>
 </contact>
+<contact>
+	<first_name>Reema</first_name>
+	<last_name>Negi</last_name>
+	<phone_number>51341</phone_number>
+	<notes>Some more notes</notes>
+</contact>
 </contacts>
